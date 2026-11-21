@@ -1,0 +1,6 @@
+{
+  "name": "RewardX",
+  "description": "RewardX — Professional rewards, tasks, daily spin wheel, referral tracking, and coin redemption platform with server-validated balances and a secure admin console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
